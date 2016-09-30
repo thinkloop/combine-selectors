@@ -1,14 +1,13 @@
 {
-  "name": "selectors",
+  "name": "combine-selectors",
   "version": "1.0.0",
-  "description": "Selectors transform redux state into view-specific structures",
-  "main": "./src/selectors.js",
+  "description": "Converts selectors into getter functions, and combines them into a single generic object.",
+  "main": "./src/combine-selectors.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinkloop/selectors.git"
+    "url": "git+https://github.com/thinkloop/combine-selectors.git"
   },
   "keywords": [
     "selectors",
@@ -18,7 +17,7 @@
   "author": "Baz <baz@thinkloop.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thinkloop/selectors/issues"
+    "url": "https://github.com/thinkloop/combine-selectors/issues"
   },
-  "homepage": "https://github.com/thinkloop/selectors#readme"
+  "homepage": "https://github.com/thinkloop/combine-selectors#readme"
 }
