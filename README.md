@@ -1,7 +1,6 @@
 # Combine-Selectors
 Selectors are deterministic functions that transform state into view-specific structures. 
-This micr-lib converts selectors into getter functions, and combines them into a single generic object.
-
+This micro-lib converts selectors into getter functions, and combines them into a single generic object.
 
 ### Install
 Using npm:
