@@ -1,11 +1,7 @@
 {
   "name": "combine-selectors",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "Converts selectors into getter functions, and combines them into a single generic object.",
-=======
-  "description": "Selectors transform redux state into view-specific structures",
->>>>>>> 1b4fdea6a4dba7a5517ea80714d8bec8b532d9a5
   "main": "./src/combine-selectors.js",
   "scripts": {
   },
