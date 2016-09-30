@@ -1,10 +1,9 @@
 {
-  "name": "selectors",
+  "name": "combine-selectors",
   "version": "1.0.0",
   "description": "Selectors transform redux state into view-specific structures",
-  "main": "./src/selectors.js",
+  "main": "./src/combine-selectors.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
