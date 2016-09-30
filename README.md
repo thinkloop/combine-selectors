@@ -5,7 +5,7 @@ Selectors are deterministic functions that transform state into view-specific st
 Using npm:
 
 ```
-npm install thinkloop/combine-selectors --save
+npm install 'thinkloop/combine-selectors' --save
 ```
 
 Or download the latest source of [selectors.js](src/selectors.js).
