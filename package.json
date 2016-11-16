@@ -2,7 +2,7 @@
   "name": "combine-selectors",
   "version": "1.0.0",
   "description": "Converts selectors into getter functions, and combines them into a single generic object.",
-  "main": "./src/combine-selectors.js",
+  "main": "./combine-selectors.js",
   "scripts": {
   },
   "repository": {
